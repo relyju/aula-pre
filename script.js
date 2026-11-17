@@ -55,7 +55,36 @@ document.addEventListener("DOMContentLoaded", () => {
           }
         ],
 
-        4: []
+        4: [
+          {
+            title: "Función",
+            videos: ["5NwVVpYQpdo"]
+          },
+          {
+            title: "Funciones especiales",
+            videos: ["a9FiGQLryYI"]
+          },
+          {
+            title: "Clases de funciones",
+            videos: ["b5t3gVetdQQ"]
+          },
+          {
+            title: "Operaciones con funciones",
+            videos: ["0Os9xubzV-c"]
+          },
+          {
+            title: "Función exponencial",
+            videos: ["2kocZuXvyys"]
+          },
+          {
+            title: "Función logarítmica",
+            videos: [
+              "LjvKhRiUATY",
+              "eyQ8A7Pv85U",
+              "pm2QCMx2XUc"
+            ]
+          }
+        ]
       },
 
       review: ["1SXacaE6CP8"]
@@ -119,7 +148,29 @@ document.addEventListener("DOMContentLoaded", () => {
           }
         ],
 
-        4: []
+        4: [
+          {
+            title: "Interés simple y compuesto",
+            videos: ["e6JdLQFqAYc"]
+          },
+          {
+            title: "Estadística",
+            videos: [
+              "vfI_1Sc2ipk",
+              "CbaVi1ScxVY",
+              "seG3x-dZyH0"
+            ]
+          },
+          {
+            title: "Probabilidades",
+            videos: [
+              "MN2iOthTPhE",
+              "RcxP46IRwCk",
+              "UIzpgpMKcn8",
+              "Ly3R0qwonco"
+            ]
+          }
+        ]
       },
 
       review: ["fQQXp6n8GOg"]
@@ -198,7 +249,28 @@ document.addEventListener("DOMContentLoaded", () => {
           }
         ],
 
-        4: []
+        4: [
+          {
+            title: "Identidades trigonométricas",
+            videos: [
+              "7en6jLj9bsE",
+              "BC5PRQUdkPA",
+              "JuKfG4AZb2Q",
+              "TWHQjpfDDuY"
+            ]
+          },
+          {
+            title: "Triángulos verticales y horizontales",
+            videos: ["I8Jta8C4QBo"]
+          },
+          {
+            title: "Funciones trigonométricas",
+            videos: [
+              "GsM7EdTsCNQ",
+              "vi1n7UF07rM"
+            ]
+          }
+        ]
       },
 
       review: ["sewPGWpsQ-4"]
@@ -300,7 +372,50 @@ document.addEventListener("DOMContentLoaded", () => {
           }
         ],
 
-        4: []
+        4: [
+          {
+            title: "Electromagnetismo",
+            videos: [
+              "7y-1i0U4rYQ",
+              "liyM9ixjlCs",
+              "OPpt7vwF64Q",
+              "WQxFlTpC_iM"
+            ]
+          },
+          {
+            title: "Movimiento ondulatorio",
+            videos: [
+              "z9TbbqnsHtI",
+              "K8qUwirJA7Q",
+              "liosnKKWT_c"
+            ]
+          },
+          {
+            title: "Sonido",
+            videos: [
+              "UxznM5sV2o8",
+              "IExObqXK3Ow"
+            ]
+          },
+          {
+            title: "Óptica",
+            videos: [
+              "4Eu0FeJIPgo",
+              "H1sdOx_dO2Q"
+            ]
+          },
+          {
+            title: "Física moderna",
+            videos: [
+              "wT2fA1qRCjc",
+              "2B-hlo2SWfs",
+              "nbwD-b1dAGQ",
+              "3TmHrz5wIiM",
+              "yrx6qQBj4qU",
+              "eyKG_qAC7yQ"
+            ]
+          }
+        ]
       },
 
       review: [
@@ -385,7 +500,35 @@ document.addEventListener("DOMContentLoaded", () => {
           }
         ],
 
-        4: []
+        4: [
+          {
+            title: "Hidrocarburos – Parte 1",
+            videos: [
+              "mv0nBzDafFU",
+              "d2zcSl90q4M",
+              "3QaVoBclkOU",
+              "8Dk0xYoJIYg",
+              "xsQAbyI4YfU",
+              "RuTBIiGWLKw"
+            ]
+          },
+          {
+            title: "Alcoholes – Parte 2",
+            videos: [
+              "1ZpOm_o-SqU",
+              "zfDepseoCLc",
+              "QmZTmx36qYs",
+              "9cErGV5hNTg",
+              "itm7qiEUS4o",
+              "GwXuZTlt_kA",
+              "4jQcuj-TjPs",
+              "-oxnJDz1ow4",
+              "m2iJBobY6o8",
+              "2TqtyAI6BuA",
+              "QUBDX7drH_g"
+            ]
+          }
+        ]
       },
 
       review: [
@@ -468,7 +611,37 @@ document.addEventListener("DOMContentLoaded", () => {
           }
         ],
 
-        4: []
+        4: [
+          {
+            title: "Preposición y conjunción",
+            videos: [
+              "_77-68wwwms",
+              "OPdIjKFwsHw"
+            ]
+          },
+          {
+            title: "Sintaxis y oración gramatical",
+            videos: [
+              "BdriClP-j0M",
+              "HrsAGswG4hc",
+              "alw1xEv9cec"
+            ]
+          },
+          {
+            title: "Texto y lectura",
+            videos: [
+              "3QeEpsjGXFQ",
+              "7AE0djNJ7i0"
+            ]
+          },
+          {
+            title: "Relación semántica",
+            videos: [
+              "v8y4eZx-IHY",
+              "x_gYa0OyQ0g"
+            ]
+          }
+        ]
       },
 
       review: []
